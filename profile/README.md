@@ -1,1 +1,1 @@
-Created by [Casey Lee](https://github.com/cplee) to host open source projects 
+Created by [Vados Dev](https://github.com/vados-dev) to host open source projects.
