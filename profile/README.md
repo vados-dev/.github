@@ -1,1 +1,1 @@
-Created by [Vados Dev](https://github.com/vados-dev) to host open source projects.
+Создано [Vados Dev](https://github.com/vados-dev) для размещения проектов с открытым исходным кодом.
